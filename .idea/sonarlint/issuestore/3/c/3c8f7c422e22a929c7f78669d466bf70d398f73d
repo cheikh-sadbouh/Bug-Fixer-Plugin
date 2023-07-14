@@ -1,0 +1,69 @@
+
+P	java:S1256"<This block of commented-out lines of code should be removed.(Ÿ‹ÿY
+N	java:S106="9Replace this use of System.out or System.err by a logger.(ş±€
+Q	java:S125@"<This block of commented-out lines of code should be removed.(®üêÃ
+V	java:S125B"<This block of commented-out lines of code should be removed.(×İòúÿÿÿÿ
+V	java:S125N"<This block of commented-out lines of code should be removed.(ëÎÆ¡üÿÿÿÿ
+V	java:S125R"<This block of commented-out lines of code should be removed.(»ş £úÿÿÿÿ
+Q	java:S125U"<This block of commented-out lines of code should be removed.(¢¬
+8
+java:S1116"Remove this empty statement.(Åñ­õşÿÿÿÿ
+V	java:S125f"<This block of commented-out lines of code should be removed.(”úúèıÿÿÿÿ
+V	java:S125i"<This block of commented-out lines of code should be removed.(è¸ßŒıÿÿÿÿ
+P	java:S125v"<This block of commented-out lines of code should be removed.(ÁÂ¢h
+Q	java:S125z"<This block of commented-out lines of code should be removed.(®üêÃ
+W	java:S125‘"<This block of commented-out lines of code should be removed.(³êæøÿÿÿÿ
+W	java:S125’"<This block of commented-out lines of code should be removed.(±ª†ìøÿÿÿÿ
+R	java:S125”"<This block of commented-out lines of code should be removed.(Óãöæ
+S
+java:S1128"=Remove this unused import 'com.github.javaparser.JavaParser'.(¿”İ¬
+\
+java:S1128"FRemove this unused import 'com.github.javaparser.ast.expr.Expression'.(Š±í¬
+`
+java:S1128"ERemove this unused import 'com.github.javaparser.ast.stmt.Statement'.(È‰·Ÿûÿÿÿÿ
+T
+java:S1128
+"9Remove this unused import 'com.intellij.ide.DataManager'.(Ø±×Ûÿÿÿÿÿ
+\
+java:S1128"ARemove this unused import 'com.intellij.openapi.editor.Document'.(¬€üûÿÿÿÿ
+Z
+java:S1128"?Remove this unused import 'com.intellij.openapi.editor.Editor'.(¹á”úÿÿÿÿ
+`
+java:S1128"JRemove this unused import 'com.intellij.openapi.editor.markup.EffectType'.(ÈÕ”“
+k
+java:S1128"PRemove this unused import 'com.intellij.openapi.editor.markup.HighlighterLayer'.(á¤ŸŠÿÿÿÿÿ
+i
+java:S1128"NRemove this unused import 'com.intellij.openapi.editor.markup.TextAttributes'.(¯Ùæ›ùÿÿÿÿ
+i
+java:S1128"NRemove this unused import 'com.intellij.openapi.fileEditor.FileEditorManager'.(ãşûšÿÿÿÿÿ
+^
+java:S1128"HRemove this unused import 'com.intellij.openapi.project.ProjectManager'.(œíÏÌ
+]
+java:S1128"BRemove this unused import 'com.intellij.openapi.wm.WindowManager'.(¥ÆèÁşÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'com.intellij.psi'.(ıøÿÿÿÿ
+B
+java:S1128",Remove this unused import 'java.awt.Window'.(’İ®
+U
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
+T
+java:S1128">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ŞÛ
+E
+java:S1128 "/Remove this unused import 'java.nio.file.Path'.(×²êÂ
+F
+java:S1128!"0Remove this unused import 'java.nio.file.Paths'.(áè°¯
+H
+java:S1128#"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+F
+java:S1128$"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+D
+java:S1128%".Remove this unused import 'java.util.Objects'.(¼¸õ›
+S
+java:S1128'"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
+J
+java:S1128("4Remove this unused import 'java.util.stream.Stream'.(ó÷”
+N
+java:S1128+"3Remove this unused import 'java.time.Period.parse'.(ú…µùÿÿÿÿ
+g	java:S101-"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¨îø«ùÿÿÿÿ
+g
+java:S2259?"L"NullPointerException" will be thrown when invoking method "getClassName()".(²ã„”ùÿÿÿÿ

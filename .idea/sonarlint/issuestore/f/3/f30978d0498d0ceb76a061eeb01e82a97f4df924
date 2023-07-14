@@ -1,0 +1,20 @@
+
+h	java:S100	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚É¯‹ıÿÿÿÿ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(³‘Š×
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨ÇÓã
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+N	java:S106"9Replace this use of System.out or System.err by a logger.(³‘Š×
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(³‘Š×
+S	java:S106"9Replace this use of System.out or System.err by a logger.(â£¸ûÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(³‘Š×
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(íšË˜
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(³‘Š×
+\
+java:S1128"FRemove this unused import 'com.github.javaparser.ast.expr.SimpleName'.(Âä†ò
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+Š
+java:S1192
+"tDefine a constant instead of duplicating this literal "---------------------------------------------------" 5 times.(³‘Š×

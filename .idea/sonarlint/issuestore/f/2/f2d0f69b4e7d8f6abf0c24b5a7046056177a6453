@@ -1,0 +1,10 @@
+
+G
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ
+a	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(œã‡j
+T
+java:S1596">Replace "Collections.EMPTY_LIST" by "Collections.emptyList()".(ãö‚
+W
+java:S1596"<Replace "Collections.EMPTY_MAP" by "Collections.emptyMap()".(ìÅŒÒøÿÿÿÿ
+W
+java:S1596"<Replace "Collections.EMPTY_SET" by "Collections.emptySet()".(Ï©û’şÿÿÿÿ

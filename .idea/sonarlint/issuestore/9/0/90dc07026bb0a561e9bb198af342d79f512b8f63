@@ -1,0 +1,10 @@
+
+V
+java:S1854";Remove this useless assignment to local variable "printer".(Á÷Õ™úÿÿÿÿ
+G
+java:S1481",Remove this unused "printer" local variable.(Á÷Õ™úÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(âàßÊ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¢ÙëÅ
+T
+java:S1128">Remove this unused import 'com.upm.fixer.CodeSmellMinorFixer'.(…„Í™
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÅÊÒõ

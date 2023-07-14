@@ -1,0 +1,14 @@
+
+S
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÎæª
+Q	java:S125"<This block of commented-out lines of code should be removed.(ğäèÜ
+Q	java:S125""<This block of commented-out lines of code should be removed.(®üêÃ
+M	java:S106&"9Replace this use of System.out or System.err by a logger.(áë˜V
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ÿŸ—…ÿÿÿÿÿ
+\
+java:S1128"FRemove this unused import 'com.github.javaparser.printer.YamlPrinter'.(ç‡Ë­
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(©ÑÌşÿÿÿÿ
+Z
+java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(ƒÿ»—

@@ -1,0 +1,90 @@
+
+h	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã Í—øÿÿÿÿ
+m
+java:S3776&"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ã Í—øÿÿÿÿ
+B
+java:S1602*",Remove useless curly braces around statement(¼’Âù
+G
+java:S1602+",Remove useless curly braces around statement(°ƒÕ»ÿÿÿÿÿ
+h	java:S100c"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã‘–ªşÿÿÿÿ
+m
+java:S3776c"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Ã‘–ªşÿÿÿÿ
+B
+java:S1602g",Remove useless curly braces around statement(¼’Âù
+B
+java:S1602h",Remove useless curly braces around statement(¢Ğ°ë
+d	java:S100Š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Ô·
+i
+java:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(‰Ô·
+C
+java:S1602",Remove useless curly braces around statement(¼’Âù
+C
+java:S1602",Remove useless curly braces around statement(ê¬ºÑ
+c	java:S100·"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓŠ¦7
+h
+java:S3776·"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÓŠ¦7
+C
+java:S1602»",Remove useless curly braces around statement(¼’Âù
+C
+java:S1602¼",Remove useless curly braces around statement(ê¬ºÑ
+d	java:S100å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª›Ï¯
+i
+java:S3776å"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ª›Ï¯
+Q
+java:S1854è";Remove this useless assignment to local variable "varname".(¼œål
+B
+java:S1481è",Remove this unused "varname" local variable.(¼œål
+C
+java:S1602é",Remove useless curly braces around statement(¼’Âù
+C
+java:S1602ê",Remove useless curly braces around statement(ê¬ºÑ
+O	java:S106˜"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+d	java:S100»"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ûüµ
+i
+java:S3776»"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(‹ûüµ
+C
+java:S1602¿",Remove useless curly braces around statement(¼’Âù
+i	java:S100ö"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãó÷‹ûÿÿÿÿ
+C
+java:S1602û",Remove useless curly braces around statement(¼’Âù
+i	java:S100œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Ê¿úÿÿÿÿ
+i	java:S100Û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤íÇÍûÿÿÿÿ
+B
+java:S2201ï"+The return value of "toArray" must be used.(º§¥æ
+W	java:S125ó"<This block of commented-out lines of code should be removed.(ç¯–Çûÿÿÿÿ
+Q
+java:S1128";Remove this unused import 'com.github.javaparser.ast.Node'.(½·Ë
+j
+java:S1128"TRemove this unused import 'com.github.javaparser.ast.nodeTypes.NodeWithAnnotations'.(ŒƒÏ‘
+[
+java:S1128	"ERemove this unused import 'com.github.javaparser.ast.stmt.BlockStmt'.(ÜÖœ˜
+c
+java:S1128"HRemove this unused import 'org.apache.velocity.runtime.directive.Break'.(£œÓ¶ıÿÿÿÿ
+a
+java:S1128"FRemove this unused import 'java.util.concurrent.atomic.AtomicBoolean'.(§­‹¼üÿÿÿÿ
+E
+java:S1066k"/Merge this if statement with the enclosing one.(Êèè¹
+E
+java:S1066l"/Merge this if statement with the enclosing one.(ÁŒ–
+J
+java:S1066m"/Merge this if statement with the enclosing one.(¸İ˜±ùÿÿÿÿ
+K
+java:S1066“"/Merge this if statement with the enclosing one.(ª½¥˜úÿÿÿÿ
+K
+java:S1066”"/Merge this if statement with the enclosing one.(£“ëËşÿÿÿÿ
+F
+java:S1066À"/Merge this if statement with the enclosing one.(Êèè¹
+K
+java:S1066Á"/Merge this if statement with the enclosing one.(©¬ğòøÿÿÿÿ
+E
+java:S1066õ"/Merge this if statement with the enclosing one.(æÓáh
+F
+java:S1066Ë"/Merge this if statement with the enclosing one.(­å„
+S
+java:S3655¯"7Call "Optional#isPresent()" before accessing the value.(×ø§æúÿÿÿÿ
+S
+java:S3655¾"7Call "Optional#isPresent()" before accessing the value.(»ì˜Àıÿÿÿÿ
+S
+java:S3655¼"7Call "Optional#isPresent()" before accessing the value.(ï›ÇÂüÿÿÿÿ
+S
+java:S3655°"7Call "Optional#isPresent()" before accessing the value.(³ñµÂşÿÿÿÿ

@@ -1,0 +1,87 @@
+
+h	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ÿŸˆûÿÿÿÿ
+m
+java:S3776#"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¶ÿŸˆûÿÿÿÿ
+B
+java:S1602'",Remove useless curly braces around statement(¼’Âù
+G
+java:S1602(",Remove useless curly braces around statement(°ƒÕ»ÿÿÿÿÿ
+b	java:S100Z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í”H
+g
+java:S3776Z"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Í”H
+B
+java:S1602^",Remove useless curly braces around statement(¼’Âù
+B
+java:S1602_",Remove useless curly braces around statement(¢Ğ°ë
+c	java:S100u"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿõ£¹
+h
+java:S3776u"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÿõ£¹
+B
+java:S1602y",Remove useless curly braces around statement(¼’Âù
+B
+java:S1602z",Remove useless curly braces around statement(ê¬ºÑ
+d	java:S100œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•úÍó
+i
+java:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(•úÍó
+C
+java:S1602 ",Remove useless curly braces around statement(¼’Âù
+C
+java:S1602¡",Remove useless curly braces around statement(ê¬ºÑ
+d	java:S100Å"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú×ôÎ
+i
+java:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ú×ôÎ
+C
+java:S1602É",Remove useless curly braces around statement(¼’Âù
+i	java:S100«"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Ì¤Äıÿÿÿÿ
+n
+java:S3776«"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(“Ì¤Äıÿÿÿÿ
+C
+java:S1602¯",Remove useless curly braces around statement(¼’Âù
+i	java:S100Ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òŸÿ÷üÿÿÿÿ
+C
+java:S1602á",Remove useless curly braces around statement(¼’Âù
+i	java:S100ò"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÛõÖşÿÿÿÿ
+B
+java:S1602‚",Remove useless curly braces around statement(¥ì³
+i	java:S100°"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÿãÎûÿÿÿÿ
+`
+java:S1854±"DRemove this useless assignment to local variable "documentationURI".(šâãøÿÿÿÿ
+Q
+java:S1481±"5Remove this unused "documentationURI" local variable.(šâãøÿÿÿÿ
+@
+java:S2201Â")The return value of "count" must be used.(Ù Ëû
+W	java:S125Æ"<This block of commented-out lines of code should be removed.(ç¯–Çûÿÿÿÿ
+c
+java:S1128"MRemove this unused import 'com.github.javaparser.ast.visitor.GenericVisitor'.(ÈŸ×ù
+i
+java:S1128"NRemove this unused import 'com.github.javaparser.ast.visitor.ModifierVisitor'.(îı¶ÿÿÿÿÿ
+^
+java:S1128"HRemove this unused import 'com.github.javaparser.ast.visitor.Visitable'.(³£¡†
+e
+java:S1128"JRemove this unused import 'com.github.javaparser.ast.visitor.VoidVisitor'.(ÇŞáÿÿÿÿÿ
+\
+java:S1128"FRemove this unused import 'com.github.javaparser.printer.YamlPrinter'.(ç‡Ë­
+W
+java:S1128"ARemove this unused import 'org.apache.commons.lang3.RandomUtils'.(†¥ÈÉ
+b
+java:S1128"GRemove this unused import 'javax.management.InstanceNotFoundException'.(“¼¬ñûÿÿÿÿ
+E
+java:S1066b"/Merge this if statement with the enclosing one.(Êèè¹
+E
+java:S1066c"/Merge this if statement with the enclosing one.(ÁŒ–
+J
+java:S1066d"/Merge this if statement with the enclosing one.(¸İ˜±ùÿÿÿÿ
+J
+java:S1066~"/Merge this if statement with the enclosing one.(ª½¥˜úÿÿÿÿ
+J
+java:S1066"/Merge this if statement with the enclosing one.(£“ëËşÿÿÿÿ
+F
+java:S1066¥"/Merge this if statement with the enclosing one.(Êèè¹
+K
+java:S1066¦"/Merge this if statement with the enclosing one.(©¬ğòøÿÿÿÿ
+E
+java:S1066Õ"/Merge this if statement with the enclosing one.(æÓáh
+F
+java:S1066»"/Merge this if statement with the enclosing one.(­å„
+K
+java:S1066†"/Merge this if statement with the enclosing one.(¿ÓâÑıÿÿÿÿ

@@ -1,0 +1,45 @@
+
+U
+java:S1854"?Remove this useless assignment to local variable "bigInteger3".(¼‚½±
+Z
+java:S1854"?Remove this useless assignment to local variable "bigInteger2".(ÓÈóÓúÿÿÿÿ
+Z
+java:S1854"?Remove this useless assignment to local variable "bigInteger1".(•Ï¹´ıÿÿÿÿ
+N
+java:S1854"8Remove this useless assignment to local variable "bool".(Çñ½ô
+Q
+java:S1854";Remove this useless assignment to local variable "integer".( Ñˆ
+R
+java:S1854"<Remove this useless assignment to local variable "myDouble".(”ß—Ê
+V	java:S125"<This block of commented-out lines of code should be removed.(Àª€ùÿÿÿÿ
+6
+java:S2129" Remove this "Double" constructor(”ß—Ê
+D
+java:S1874".Remove this use of "Double"; it is deprecated.(”ß—Ê
+C
+java:S1481"-Remove this unused "myDouble" local variable.(”ß—Ê
+7
+java:S2129"!Remove this "Integer" constructor( Ñˆ
+E
+java:S1874"/Remove this use of "Integer"; it is deprecated.( Ñˆ
+B
+java:S1481",Remove this unused "integer" local variable.( Ñˆ
+7
+java:S2129"!Remove this "Boolean" constructor(Çñ½ô
+E
+java:S1874"/Remove this use of "Boolean"; it is deprecated.(Çñ½ô
+?
+java:S1481")Remove this unused "bool" local variable.(Çñ½ô
+?
+java:S2129"$Remove this "BigInteger" constructor(•Ï¹´ıÿÿÿÿ
+K
+java:S1481"0Remove this unused "bigInteger1" local variable.(•Ï¹´ıÿÿÿÿ
+?
+java:S2129"$Remove this "BigInteger" constructor(ÓÈóÓúÿÿÿÿ
+K
+java:S1481"0Remove this unused "bigInteger2" local variable.(ÓÈóÓúÿÿÿÿ
+F
+java:S1481"0Remove this unused "bigInteger3" local variable.(¼‚½±
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(œã‡j

@@ -1,0 +1,11 @@
+
+b	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãœ¤
+B
+java:S1602",Remove useless curly braces around statement(¼’Âù
+h	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ü§Çúÿÿÿÿ
+m
+java:S37762"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(¥Ü§Çúÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(º•ô¦
+B
+java:S16029",Remove useless curly braces around statement(¢Ð°ë
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ

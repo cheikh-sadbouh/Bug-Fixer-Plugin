@@ -1,0 +1,8 @@
+
+K
+java:S1854"5Remove this useless assignment to local variable "f".(’é›ù
+C
+java:S1874"-Remove this use of "Float"; it is deprecated.(’é›ù
+<
+java:S1481"&Remove this unused "f" local variable.(’é›ù
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(œã‡j

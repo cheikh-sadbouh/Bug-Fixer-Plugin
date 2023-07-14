@@ -1,0 +1,8 @@
+
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÙÄÆ€þÿÿÿÿ
+>
+java:S3042"#Remove this "synchronized" keyword.(ÙÄÆ€þÿÿÿÿ
+V	java:S125
+"<This block of commented-out lines of code should be removed.(ëØÿ½ûÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(®þ°ÿüÿÿÿÿ

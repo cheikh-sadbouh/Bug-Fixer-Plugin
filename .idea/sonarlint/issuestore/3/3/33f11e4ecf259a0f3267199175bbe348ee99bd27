@@ -1,0 +1,52 @@
+
+Q	java:S125""<This block of commented-out lines of code should be removed.(˜‡º
+Q	java:S125)"<This block of commented-out lines of code should be removed.(Å’áú
+V	java:S125/"<This block of commented-out lines of code should be removed.(ôšüÿÿÿÿ
+Q	java:S125C"<This block of commented-out lines of code should be removed.(˜‡º
+Q	java:S125H"<This block of commented-out lines of code should be removed.(õµ¤
+Q	java:S125V"<This block of commented-out lines of code should be removed.(İ®îé
+V	java:S125^"<This block of commented-out lines of code should be removed.(Ü‰··ùÿÿÿÿ
+Q	java:S125k"<This block of commented-out lines of code should be removed.(‡ç™Õ
+Q	java:S125r"<This block of commented-out lines of code should be removed.(¾é¹§
+R	java:S125‚"<This block of commented-out lines of code should be removed.(‡ç™Õ
+ˆ
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(´úÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(·Ÿá®
+N	java:S106•"9Replace this use of System.out or System.err by a logger.(’”è
+R	java:S125™"<This block of commented-out lines of code should be removed.(Ä­Ò
+W	java:S125Ÿ"<This block of commented-out lines of code should be removed.(¡åÿÿÿÿÿ
+W	java:S125¢"<This block of commented-out lines of code should be removed.(Ÿ¶‹²ıÿÿÿÿ
+R	java:S125¦"<This block of commented-out lines of code should be removed.(Œô…
+W	java:S125©"<This block of commented-out lines of code should be removed.(‹ØšÖûÿÿÿÿ
+O	java:S106»"9Replace this use of System.out or System.err by a logger.(Ş²Í»
+W	java:S125º"<This block of commented-out lines of code should be removed.(Âß¶ºúÿÿÿÿ
+B
+java:S1602¾",Remove useless curly braces around statement(îÂC
+O	java:S106¿"9Replace this use of System.out or System.err by a logger.(º›ÂŒ
+X
+java:S1128"BRemove this unused import 'com.github.javaparser.JavaParserBuild'.(²…µù
+V
+java:S1128";Remove this unused import 'com.github.javaparser.Position'.(©şäÂÿÿÿÿÿ
+Q
+java:S1128";Remove this unused import 'com.github.javaparser.ast.Node'.(½·Ë
+\
+java:S1128
+"FRemove this unused import 'com.github.javaparser.ast.expr.SimpleName'.(Âä†ò
+‚
+java:S1128"gRemove this unused import 'com.github.javaparser.printer.lexicalpreservation.LexicalPreservingPrinter'.(ªÃÎ—øÿÿÿÿ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ÖÏƒš
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ƒğ—øÿÿÿÿ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(˜ÉÖ”
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(…„Í™
+Y
+java:S1128">Remove this unused import 'org.jetbrains.annotations.NotNull'.(éš®ïøÿÿÿÿ
+U
+java:S1128"?Remove this unused import 'org.jetbrains.annotations.Nullable'.(·½Ç
+O
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶
+J
+java:S1144¶".Remove this unused private "transform" method.(‚Íüÿÿÿÿ

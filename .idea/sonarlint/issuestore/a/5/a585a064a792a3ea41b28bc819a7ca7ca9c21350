@@ -1,0 +1,38 @@
+
+B
+java:S1602",Remove useless curly braces around statement(¼’Âù
+m
+java:S37767"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(€¿©´üÿÿÿÿ
+G
+java:S16028",Remove useless curly braces around statement(þ¥Ùùÿÿÿÿÿ
+Q	java:S125M"<This block of commented-out lines of code should be removed.(ÏžÜß
+V	java:S125S"<This block of commented-out lines of code should be removed.(£Õ¯þüÿÿÿÿ
+\
+java:S1854]"FRemove this useless assignment to local variable "variableDeclarator".(ÂÈ¤
+V	java:S125X"<This block of commented-out lines of code should be removed.(œŠß”ùÿÿÿÿ
+Q	java:S125\"<This block of commented-out lines of code should be removed.(œ­ç–
+M
+java:S1481]"7Remove this unused "variableDeclarator" local variable.(ÂÈ¤
+V	java:S125d"<This block of commented-out lines of code should be removed.(ÌúÍÃùÿÿÿÿ
+Q	java:S125g"<This block of commented-out lines of code should be removed.(ÿê—á
+P	java:S125q"<This block of commented-out lines of code should be removed.(Æ¤Î]
+V	java:S125y"<This block of commented-out lines of code should be removed.(úÅ»çøÿÿÿÿ
+W	java:S125‡"<This block of commented-out lines of code should be removed.(²–²Çÿÿÿÿÿ
+Q	java:S125ˆ"<This block of commented-out lines of code should be removed.(ý¼—"
+R	java:S125Œ"<This block of commented-out lines of code should be removed.(•ˆŽÎ
+W	java:S125¥"<This block of commented-out lines of code should be removed.(æÀö€øÿÿÿÿ
+S
+java:S1874¹"<Remove this use of "ClassOrInterfaceType"; it is deprecated.(õñëÒ
+]
+java:S1126Ý"AReplace this if-then-else statement by a single return statement.(ÜÚ½šøÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(Ü’Å´
+E
+java:S1066""/Merge this if statement with the enclosing one.(éðüæ
+E
+java:S1066C"/Merge this if statement with the enclosing one.(­å„
+S
+java:S3655ì"7Call "Optional#isPresent()" before accessing the value.(Ý‹¨ýÿÿÿÿ
+S
+java:S3655ì"7Call "Optional#isPresent()" before accessing the value.(Ý‹¨ýÿÿÿÿ
+N
+java:S3655˜"7Call "Optional#isPresent()" before accessing the value.(ëÍìä

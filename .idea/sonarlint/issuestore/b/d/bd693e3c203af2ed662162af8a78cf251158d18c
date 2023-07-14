@@ -1,0 +1,7 @@
+
+X
+java:S2094"BRemove this empty class, write its code or make it an "interface".(”ìÅÊ
+E
+java:S3985"/Remove this unused private "unusedClass" class.(”ìÅÊ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(®ş°ÿüÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(”ìÅÊ

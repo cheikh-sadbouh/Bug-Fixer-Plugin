@@ -1,0 +1,23 @@
+
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğã‘
+h	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°İºÀúÿÿÿÿ
+B
+java:S1602<",Remove useless curly braces around statement(ÀÜõˆ
+G
+java:S1602=",Remove useless curly braces around statement(½ø»µøÿÿÿÿ
+c	java:S100]"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğï˜°
+V	java:S125h"<This block of commented-out lines of code should be removed.(ªÑ«°ùÿÿÿÿ
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»½Ñû
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(»½Ñû
+C
+java:S1602“",Remove useless curly braces around statement(¼’Âù
+C
+java:S1602”",Remove useless curly braces around statement(¢Ğ°ë
+Z
+java:S1128"DRemove this unused import 'com.github.javaparser.ast.expr.NameExpr'.(ü¬·
+\
+java:S1128	"FRemove this unused import 'com.github.javaparser.printer.YamlPrinter'.(ç‡Ë­
+K
+java:S1066™"/Merge this if statement with the enclosing one.(Œüë³ùÿÿÿÿ
+k	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç²Ôİúÿÿÿÿ

@@ -1,0 +1,31 @@
+
+U
+java:S1854"?Remove this useless assignment to local variable "bigInteger3".(”ÚàÅ
+Z
+java:S1854"?Remove this useless assignment to local variable "bigInteger2".(–Ÿªûÿÿÿÿ
+Z
+java:S1854"?Remove this useless assignment to local variable "bigInteger1".(ŠÊ¢Ùûÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "bool".(‚¤¼Üùÿÿÿÿ
+V
+java:S1854";Remove this useless assignment to local variable "integer".(‘Í•ëÿÿÿÿÿ
+W
+java:S1854
+"<Remove this useless assignment to local variable "myDouble".(§À¬¸ÿÿÿÿÿ
+V	java:S125	"<This block of commented-out lines of code should be removed.(Àª€ùÿÿÿÿ
+H
+java:S1481
+"-Remove this unused "myDouble" local variable.(§À¬¸ÿÿÿÿÿ
+G
+java:S1481",Remove this unused "integer" local variable.(‘Í•ëÿÿÿÿÿ
+D
+java:S1481")Remove this unused "bool" local variable.(‚¤¼Üùÿÿÿÿ
+K
+java:S1481"0Remove this unused "bigInteger1" local variable.(ŠÊ¢Ùûÿÿÿÿ
+K
+java:S1481"0Remove this unused "bigInteger2" local variable.(–Ÿªûÿÿÿÿ
+F
+java:S1481"0Remove this unused "bigInteger3" local variable.(”ÚàÅ
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(®ş°ÿüÿÿÿÿ
